@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - FragmentTransfert
+  - SF_Door
+  - generator
+  - fragment
+  - desktop
+  - Ground
+  - Center
+  - HealMachine
+  - Battery
   layers:
   - Default
   - TransparentFX
